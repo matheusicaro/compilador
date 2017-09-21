@@ -6,4 +6,4 @@ codificação de um compilador composto por:
 2. Analisador Sintático
 3. Analisador Semântico
 
-Codigo em C++
+Codigo em C - DevC++
